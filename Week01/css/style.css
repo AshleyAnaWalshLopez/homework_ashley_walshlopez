@@ -1,0 +1,13 @@
+body {
+    padding: 20px;
+    text-align: center;
+    background-color: #ff3377;
+}
+
+#yourButton{
+  color: #0066ff;
+}
+
+#dateButton{
+  color: #00994d; 
+}
