@@ -21,15 +21,12 @@ var helicopter = {
   currentLocation: "Flight Line",
   acceleration: function (){
       return "I can travel" + this.distanceToEmpty;
-  }
-
-
-    missile:{
-      name: "Hellfire",
-      /*honkHorn mechanism  */
-      sound: function{
-        console.log("BOOM!")
-      }
-
+  },
+  missile:{
+    name: "Hellfire",
+    /*honkHorn mechanism  */
+    sound: function{
+      console.log("BOOM!")
     }
+  }
 }
