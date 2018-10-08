@@ -1,0 +1,25 @@
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+     background-color: #004d00;
+     color: #000;
+     font-size: 18px;
+     line-height: 1.4;
+     font-family: 'Homemade Apple', cursive;
+
+}
+
+#conversation{
+    background-color: #ff8000;
+}
+
+/******************************************
+/* LAYOUT/BOOTSTRAP OVERRIDE
+/*******************************************/
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
