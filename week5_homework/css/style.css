@@ -1,0 +1,19 @@
+    body {
+        background-color: #DDD;
+        padding: 10px;
+    }
+    h2{
+      text-align: center;
+      color: #C0C0C0;
+      font-family: 'Gloria Hallelujah', cursive;
+    }
+    h3 {
+        text-align: center;
+        margin: 10px auto;
+        font-family: 'Pacifico';
+        border-bottom: 1px solid gray;
+        width: 50%;
+    }
+    #addArt{
+      background-color: #FF69B4;
+    }
